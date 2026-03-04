@@ -1,0 +1,14 @@
+{
+  "name": "thalia-energy",
+  "version": "1.0.0",
+  "description": "Thalia Energy Preorder Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^25.7.0",
+    "server.js": "^1.0.0"
+  }
+}
